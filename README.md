@@ -35,10 +35,10 @@ Before sending the request and the response there is a TCP connection establishe
 12. Methods of an object can be called using Object.Method
 13. Example: 
 
-var person = new Object();
-person.firstName = “Maharani”;
-person.lastName = “Jeyaraman”;
-person.age = 15;
-person.eyeColor = “blue”;
+var person = new Object();<br>
+person.firstName = “Maharani”;<br>
+person.lastName = “Jeyaraman”;<br>
+person.age = 15;<br>
+person.eyeColor = “blue”;<br>
 
 
