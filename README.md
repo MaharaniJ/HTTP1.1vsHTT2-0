@@ -9,8 +9,8 @@ Before sending the request and the response there is a TCP connection establishe
 
 | HTTP 1.1      |     HTTP 2    |
 | ------------- | ------------- |
-| HTTP 1.1 - uses Hyper Text Transfer Protocol - created in 1997|
-|There are several stages of development of HTTP but we will focus mainly on HTTP/1.1 which was created in 1997 |HTTP 2 - uses SPDY Protocol - Speedy (networking protocol) |
+| HTTP 1.1 - uses Hyper Text Transfer Protocol - created in 1997|HTTP 2 - uses SPDY Protocol - Speedy (networking protocol) 
+|There are several stages of development of HTTP but we will focus mainly on HTTP/1.1 which was created in 1997 ||
 |There is a persistent connection which means several requests & responses are merged in a single connection. | HTTP/2 was created in 2015.|
 |Following are the drawbacks that lead to the creation of HTTP/2:| HTTP/2 works on the binary framing layer instead of textual that converts all the messages in binary format.|
 |The first problem is HTTP/1.1 transfer all the requests & responses in the plain text message form. | HTTP/2 works on fully multiplexed that is one TCP connection is used for multiple requests.|
