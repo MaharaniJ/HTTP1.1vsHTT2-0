@@ -1,6 +1,6 @@
 # HTTP 1.1vsHTTP 2
 
-What is HTTP ?
+## What is HTTP ?
 
 HTTP stands for hypertext transfer protocol & it is used in client-server communication.
 By using HTTP user sends the request to the server & the server sends the response to the user.
@@ -19,4 +19,4 @@ Before sending the request and the response there is a TCP connection establishe
 
 
 
-
+# Objects And Its Internal Representation In JavaScript
