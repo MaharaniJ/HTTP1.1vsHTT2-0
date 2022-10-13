@@ -36,9 +36,9 @@ Before sending the request and the response there is a TCP connection establishe
 13. Example: 
 
 var person = new Object();
-person.firstName = “John”;
-person.lastName = “Doe”;
-person.age = 50;
+person.firstName = “Maharani”;
+person.lastName = “Jeyaraman”;
+person.age = 15;
 person.eyeColor = “blue”;
 
 
