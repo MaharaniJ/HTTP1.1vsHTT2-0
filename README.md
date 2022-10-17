@@ -42,3 +42,10 @@ person.age = 15;<br>
 person.eyeColor = “blue”;<br>
 
 
+# Difference between document objects and window objects
+
+
+|Document Object      |  Windows Object |
+| Represents a web page that is loaded in the browser | Represents a browser window or frame that displays the content of the webpage |
+
+
